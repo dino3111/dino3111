@@ -4,13 +4,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dino3111&theme=dark&show_icons=true&hide_border=true&count_private=true" 
+      <img src="https://github-readme-stats.vercel.app/api?username=dino3111&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" 
            alt="dino3111's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino3111&theme=dark&show_icons=true&hide_border=true&layout=compact" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino3111&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000" 
            alt="dino3111's Top Languages" />
     </td>
   </tr>
 </table>
-
