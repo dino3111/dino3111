@@ -1,29 +1,13 @@
-<h1 align="center">👋 Olá, eu sou o Claudino Martins</h1>
-<h3 align="center">🎓 Estudante de 1º ano de Engenharia Informática na Universidade de Aveiro</h3>
+<h1 align="center">Hi 👋, I'm Claudino Martins</h1>
+<h3 align="center">First year Software Engineering student at the University of Aveiro.</h3>
 
----
-
-## 🌐 
-
-<p align="center">
-  <a href="https://twitter.com/dino_311" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/claudino-martins-b366612ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/dino._31" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dino_311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dino_311" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudino-martins-b366612ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudino-martins-b366612ba" height="30" width="40" /></a>
+<a href="https://instagram.com/dino._31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dino._31" height="30" width="40" /></a>
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dino3111&show_icons=true&theme=onedark&locale=en&layout=compact" alt="dino3111" /></p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dino3111&show_icons=true&theme=onedark&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dino3111&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<div align="center">
-  Obrigado por visitares o meu perfil 😊
-</div>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dino3111&show_icons=true&theme=onedark&locale=en" alt="dino3111" /></p>
