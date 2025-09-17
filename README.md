@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudino Martins</h1>
-<h3 align="center">First year Software Engineering student at the University of Aveiro.</h3>
+<h3 align="center">Second year Software Engineering student at the University of Aveiro.</h3>
 <h1></h1>
 
 <h3 align="center">Connect with me 🤝</h3>
