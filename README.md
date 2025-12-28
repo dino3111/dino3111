@@ -9,19 +9,7 @@
 <details>
 <summary>contact me:</summary>
 <br>
-<h3>you can reach me by:</h3>
-
-<a href="https://www.linkedin.com/in/claudinomartins/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</details>
-
-<details>
-<summary>💻 github profile stats</summary>
-<br>
-<h3>github stats</h3>
-</details>
-
-<details>
-<summary>languages</summary>
+<a href="https://www.linkedin.com/in/claudinomartins/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </details>
 
 <details>
