@@ -13,8 +13,8 @@
 <details>
 <summary>stats:</summary>
 <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dino3111&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino3111&layout=compact&langs_count=7&theme=onedark" />
+  ![dino3111's Stats](https://github-readme-stats.vercel.app/api?username=dino3111&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![dino3111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dino3111&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </details>
 
 </div>
