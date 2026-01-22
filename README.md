@@ -14,7 +14,9 @@
 <summary>stats:</summary>
 <br>
   ![dino3111's Stats](https://github-readme-stats.vercel.app/api?username=dino3111&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![dino3111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dino3111&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+  ![dino3111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dino3111&theme=dark&hide_border=true&layout=compact)
+
 </details>
 
 </div>
