@@ -2,7 +2,7 @@
 
 # Hi, I'm Claudino
 
-**Second Year Software Engineering Student**
+**Third Year Software Engineering Student**
 
 <details>
 <summary>contact me:</summary>
