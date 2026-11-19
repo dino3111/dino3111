@@ -4,6 +4,8 @@
 
 **Third Year Software Engineering Student**
 
+<a href="https://dino3111.github.io/myportfolio/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-166534?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+
 <details>
 <summary>contact me:</summary>
 <br>
